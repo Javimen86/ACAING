@@ -1,1 +1,3 @@
 # ACAING
+El proyecto ACAING busca dar cumplimiento a los requerimientos del ACA  de la materia Ingenieria de Software II , para lo que realiza la creacion o conformacion de un equipo de trabajo de 5 personas definiendo los roles como lo es el Scrum Master de igual manera se define el nombre de la empresa y el logo esto se debe realizar mediante el uso de la herramienta GitHub, y Visual Studio Code, como segunda parte dentro de las actividades esta la creacion de este README y luego hacer una participacion o comentario denominado en GitHub como commit
+  
